@@ -1,6 +1,9 @@
 # pixel_search
 ahk pixel search function
 
+#####################
+
+
 
 if (CurrentKeyPressed == Vars.m1button)
 {
@@ -121,4 +124,5 @@ if (CurrentKeyPressed == Vars.m1button)
                         }
 
 
-                    }                   
+                    }    
+                    }

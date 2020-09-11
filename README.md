@@ -1,9 +1,8 @@
 # pixel_search
-ahk pixel search function
-
-#####################
+ahk pixel search functions
 
 
+## TEMP BIN
 
 if (CurrentKeyPressed == Vars.m1button)
 {
